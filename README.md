@@ -108,4 +108,4 @@ The Looker Studio dashboard covers 4 analytical pages:
 
 ---
 
-*Part of Data Analytics Portfolio 2025–2026*
+*Sisilia Manullang — Data Enthusiast*
